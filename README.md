@@ -10,6 +10,8 @@ for a rendered version of this material, [the lesson template documentation][les
 for instructions on formatting, building, and submitting material,
 or run `make` in this directory for a list of helpful commands.
 
+This is NOT an official Software Carpentry tutorial.  I'm using the python-gapminder lesson as a nicely-formatted starting point.
+
 Maintainer(s):
 
 * [Nathan Moore][moore-nathan]
